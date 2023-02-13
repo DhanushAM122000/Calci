@@ -5,12 +5,12 @@ Steps to achive Simple Calculator
 Step-1
 Create a new Project in Eclipes and Create package  
 Step-2
-Inside the package Create an Interface and declare the methodes
+Inside the package Create an Interface and declare the methods
 Step-3
 Create the class and achive Is-A-Relationship
 Step-4
-Override all the methodes present in Interface
+Override all the methods present in Interface
 Step-5
 Create an MainClass called as Solution and achive Upcasting
 Step-6
-using Switch display all the methodes using Upcasted Reference Variable
+using Switch display all the methods using Upcasted Reference Variable
